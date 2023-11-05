@@ -1,1 +1,1 @@
-print("My project)
+print("My project")
